@@ -20,6 +20,7 @@ def divide(a, b):
     
 
 def modulus(a, b):
+    return a % b
     
 
 # Test the functions
