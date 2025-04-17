@@ -15,6 +15,7 @@ def subtract(a, b):
     
 
 def multiply(a, b):
+    return a * b
    
    
 def divide(a, b):
